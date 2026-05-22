@@ -190,15 +190,7 @@ The interactive dashboard includes:
 
 # 🖼️ Dashboard Preview
 
-_Add Power BI dashboard screenshot here_
-
-Example:
-
-```markdown
 ![Dashboard Preview](dashboard.png)
-```
-
----
 
 # 📌 Strategic Recommendations
 
